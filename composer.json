@@ -1,0 +1,17 @@
+{
+    "name": "mathiasverraes/maintainable-regex",
+    "description": "Tutorial on how to write maintainable regexes",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Mathias Verraes",
+            "email": "mathias@verraes.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"MaintainableRegex": "src/"}
+    },
+    "require": {
+        "phpunit/phpunit": "3.7.14"
+    }
+}
